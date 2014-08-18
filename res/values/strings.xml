@@ -133,4 +133,6 @@
     <string name="callFailed_data_limit_reached_description">Call ended because the cellular data limit has been reached.</string>
     <!-- In-call screen: call ended because the cellular data limit has been reached (intended for label in in-call screen) -->
     <string name="callFailed_data_limit_reached">Data limit reached. Call ended.</string>
+
+    <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
 </resources>
